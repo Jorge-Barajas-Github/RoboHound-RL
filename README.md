@@ -154,7 +154,3 @@ Relevant research areas related to this project include:
 - sim-to-real transfer
 
 ---
-
-# License
-
-This project is released under the MIT License.
